@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TestCounterActivity!</string>
+    <string name="app_name">TestCounter</string>
+    <string name="large_text">Large Text</string>
+    <string name="plus_string">+</string>
+    <string name="minus_string">-</string>
+    <string name="clear">Clear</string>
+
+</resources>
